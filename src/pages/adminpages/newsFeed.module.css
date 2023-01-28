@@ -1,0 +1,23 @@
+/* *{
+    width: 200px;
+    margin: auto;
+    background-color:azure;
+    border-radius: 2rem;
+} */
+.addnews{
+    top: 0; 
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 7%;
+    margin-top: 9%; 
+    margin-right: 9%;
+   } 
+  .cartMain{
+    color: #97144d;
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 1%;
+  }
+  

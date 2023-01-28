@@ -1,0 +1,11 @@
+.img{
+    justify-content: left;
+    top: 10vh;
+    font-size: 20px;
+    
+    flex-wrap: wrap;
+}
+.products{
+    margin-left: 16.1%;
+    margin-top: 5%;
+}

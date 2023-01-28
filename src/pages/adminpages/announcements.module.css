@@ -1,0 +1,29 @@
+.addemp{
+    top: 0; 
+    padding-top: 1%;
+    padding-left: 8%;
+    padding-right: 5%;
+    margin-left: 18%;
+    margin-top: 9%;
+    margin-right: 9%;
+   } 
+  .cartMain{
+    color: #97144d;
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 1%;
+  }
+  .editemp{
+    margin-left: 7%;
+    margin-top: 9%; 
+    margin-right: 9%;
+  
+  }
+  .cartMain{
+    color: #97144d;
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 1%;
+  }
